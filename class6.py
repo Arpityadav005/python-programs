@@ -20,7 +20,7 @@ else:
 # can profile A access profile B
 # a = isFriend
 # b = isBlocked
-# c = isAdmin
+# c = isAdmina
 # d = isMarkZuckerberg
 
 # a b c d q
